@@ -1,6 +1,6 @@
 # 🧙‍♂️ Desafio - Classificador de Nível de Herói
 
-Este é um desafio prático proposto pel Felipão com o objetivo de aplicar os conhecimentos fundamentais de programação utilizando variáveis, operadores, estruturas de decisão e laços de repetição.
+Este é um desafio prático proposto pelo Felipe Aguiar da DIO, com o objetivo de aplicar os conhecimentos fundamentais de programação utilizando variáveis, operadores, estruturas de decisão e laços de repetição.
 
 ## 🚀 Objetivo
 
